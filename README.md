@@ -26,14 +26,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo"  />
 </div>
 
-###
-
-<img align="right" height="200" src="AWSDeveloper.gif"  />
 
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <a href="https://mail.google.com/mail/u/0/?fs=1&to=amir.intec@gmail.com&su=Hello!&tf=cm" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
@@ -46,6 +43,11 @@
 </div>
 
 ###
+
+###
+<div align="center">
+  <img align="center" height="200" src="AWSDeveloper.gif"  />
+</div>
 
 <br clear="both">
 
